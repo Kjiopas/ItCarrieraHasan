@@ -1,0 +1,595 @@
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleA.E4B05A87.Up2Date
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\refint\ConsoleApp20.dll
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\User\Desktop\it kariera\ConsoleApp20\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleA.E4B05A87.Up2Date
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\refint\ConsoleApp20.dll
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\osask\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CopyComplete
+C:\Users\STEAM 5\Desktop\Redzheb 11Б\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CopyComplete
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\NOI3_2024\Desktop\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleA.E4B05A87.Up2Date
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\refint\ConsoleApp20.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Desktop\Нова папка (2)\Proekt\ConsoleApp20\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleA.E4B05A87.Up2Date
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\refint\ConsoleApp20.dll
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\refint\ConsoleApp20.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleA.E4B05A87.Up2Date
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\User\Desktop\училище\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Moq.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleA.E4B05A87.Up2Date
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\refint\ConsoleApp20.dll
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\osask\Desktop\pp\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.exe
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.deps.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Moq.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.AssemblyInfo.cs
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleA.E4B05A87.Up2Date
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\refint\ConsoleApp20.dll
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.pdb
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ConsoleApp20.genruntimeconfig.cache
+C:\Users\User\Downloads\Proekt (1)\Proekt\ConsoleApp20\obj\Debug\net5.0\ref\ConsoleApp20.dll
