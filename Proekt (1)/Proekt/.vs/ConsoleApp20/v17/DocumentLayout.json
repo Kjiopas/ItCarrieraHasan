@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{275105E6-A9E9-4AF9-9225-EEB80871F205}|TestProject1\\TestProject1.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275105E6-A9E9-4AF9-9225-EEB80871F205}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\consoleapp20\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\consoleapp20\\bussiness\\bookbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\bookbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\consoleapp20\\displays\\filmsgenresdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\consoleapp20\\bussiness\\bookgenrebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\bussiness\\bookgenrebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\consoleapp20\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2599E96A-1A8D-40A5-B549-E8C14C20DEC6}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\user\\downloads\\proekt (1)\\proekt\\consoleapp20\\data\\models\\booksgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,6 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BookBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\BookBussiness.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:46:24.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwFQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:31:52.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Books.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Books.cs",
@@ -66,23 +100,12 @@
               "RelativeToolTip": "ConsoleApp20\\Data\\Models\\Books.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:31:51.164Z"
+              "WhenOpened": "2024-03-23T20:31:51.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookGenreBussiness.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
-              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
-              "RelativeToolTip": "ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAEsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T16:21:44.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FilmsGenresDisplay.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Displays\\FilmsGenresDisplay.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Displays\\FilmsGenresDisplay.cs",
@@ -94,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
@@ -107,7 +130,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "BookGenreBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "RelativeToolTip": "ConsoleApp20\\Bussiness\\BookGenreBussiness.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:21:44.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BooksGenre.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\BooksGenre.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\BooksGenre.cs",
@@ -119,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Book_Premiere.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Book_Premiere.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Book_Premiere.cs",
@@ -131,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Film_Premiere.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Film_Premiere.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Film_Premiere.cs",
@@ -143,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FilmsGenre.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\FilmsGenre.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\FilmsGenre.cs",
@@ -155,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Contexts.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Contexts.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Contexts.cs",
@@ -167,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Films.cs",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\Data\\Models\\Films.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Data\\Models\\Films.cs",

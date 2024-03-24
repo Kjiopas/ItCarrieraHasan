@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj": {}
+    "C:\\Users\\User\\Desktop\\ItCarrieraHasan\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj": {
+    "C:\\Users\\User\\Desktop\\ItCarrieraHasan\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ItCarrieraHasan\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj",
         "projectName": "ConsoleApp20",
-        "projectPath": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ItCarrieraHasan\\Proekt (1)\\Proekt\\ConsoleApp20\\ConsoleApp20.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Proekt (1)\\Proekt\\ConsoleApp20\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ItCarrieraHasan\\Proekt (1)\\Proekt\\ConsoleApp20\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Vs\\VisualStudioTools\\VisualStudioSharedComponents\\NuGetPackages"
